@@ -37,7 +37,7 @@ html{
   article {
     text-align: center;
     float:right;
-    padding: 5px 5px 5px;
+    padding: 5px 2px 2px;
     width: 155px;
     
    
@@ -52,7 +52,7 @@ html{
   p {
     font-size: 13.1px;
     line-height: 1.3rem;
-    text-align: justify;
+    text-align: center;
     padding: 0%;
     
     
