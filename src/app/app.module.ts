@@ -4,10 +4,32 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import { EjemploComponent } from './ejemplo/ejemplo.component';
+import { MenuComponent } from './menu/menu.component';
+import { OrionComponent } from './orion/orion.component';
+import { WirecloudComponent } from './wirecloud/wirecloud.component';
+import { KnowageComponent } from './knowage/knowage.component';
+import { WilmaComponent } from './wilma/wilma.component';
+import { KeyrockComponent } from './keyrock/keyrock.component';
+import { AuthzforceComponent } from './authzforce/authzforce.component';
+import { AeonComponent } from './aeon/aeon.component';
+import { BotonComponent } from './boton/boton.component';
+import { CheckboxComponent } from './checkbox/checkbox.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    EjemploComponent,
+    MenuComponent,
+    OrionComponent,
+    WirecloudComponent,
+    KnowageComponent,
+    WilmaComponent,
+    KeyrockComponent,
+    AuthzforceComponent,
+    AeonComponent,
+    BotonComponent,
+    CheckboxComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,18 @@
+input {
+    width: 15px;
+    height: 15px;
+    padding: 0;
+    margin:0;
+    vertical-align: bottom;
+    position: relative;
+    top: -1px;
+    *overflow: hidden;
+    display: inline-block;
+    margin-top:6px;
+    margin-left:25px;
+    
+}
+nput[type="checkbox"] {
+    transform: scale(1.5);
+    
+  }
