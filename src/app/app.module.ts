@@ -15,6 +15,9 @@ import { AuthzforceComponent } from './authzforce/authzforce.component';
 import { AeonComponent } from './aeon/aeon.component';
 import { BotonComponent } from './boton/boton.component';
 import { CheckboxComponent } from './checkbox/checkbox.component';
+import { Boton2Component } from './boton2/boton2.component';
+
+
 
 @NgModule({
   declarations: [
@@ -29,7 +32,9 @@ import { CheckboxComponent } from './checkbox/checkbox.component';
     AuthzforceComponent,
     AeonComponent,
     BotonComponent,
-    CheckboxComponent
+    CheckboxComponent,
+    Boton2Component,
+   
   ],
   imports: [
     BrowserModule,
